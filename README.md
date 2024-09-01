@@ -4,7 +4,7 @@ SOTAに関する質問に答えてくれるチャットボットを[Dify](https:
 
 [Dify](https://github.com/langgenius/dify)を使うとプロンプトのカスタマイズも簡単です。ぜひご自分の好みのチャットボットにカスタマイズしてみてください。
 
-![SOTAchan](images/Charming hiking.png "楽しいハイキング")
+![SOTAchan](images/Charming-hiking.png "楽しいハイキング")
 
 ## 使い方
 トップページにアクセスすると以下の画面になります。
