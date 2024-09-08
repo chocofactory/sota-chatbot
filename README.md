@@ -1,4 +1,4 @@
-# sota-chatbot
+# 練習用のSandboxです（sota-chatbot）
 
 SOTAに関する質問に答えてくれるチャットボットを[Dify](https://github.com/langgenius/dify)を使って作ってみました。おすすめのSOTA山や運用時の留意点などいろいろなアドバイスを音声でしてくれます。
 
